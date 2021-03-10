@@ -1,0 +1,117 @@
+********************************************************************************
+*  Package...:                       VADAR (c)
+*  Version...:                 1.5, December 2007
+*  Location..:                 University of Alberta
+*                          Protein Engineering Network of
+*                              Centres of Excellence
+*  Input.....:                     /var/www/html/vadar/public_html/temp/1541951406/1541951406.txt_m0
+*  Date......:                 Sun Nov 11 15:50:07 2018
+********************************************************************************
+
+
+
+
+
+                     *************************************
+                     *   MAINCHAIN HYDROGEN BOND PANEL   *
+                     *************************************
+
+
+
+HBOND          HBOND          HBOND        HBOND        HBOND     ACCPT   DONOR
+ACCPT(CO)      DONOR(NH)      DIST.        ANGLE        ENERGY    STRUC   STRUC
+--------------------------------------------------------------------------------
+ILE 12X        LEU 86X         2.02         158.98        -2.51       B       B
+ILE 13X        ILE 24X         2.23         174.94        -1.26       B       B
+LYS 14X        LEU 88X         1.79         171.41        -3.05       B       B
+ALA 15X        ARG 22X         1.84         174.62        -2.84       B       B
+GLN 16X        VAL 90X         1.89         149.63        -2.87       B       B
+ASP 20X        LEU 17X         2.15         174.02        -1.69       C       B
+ARG 22X        ALA 15X         1.73         174.53        -3.32       B       B
+ILE 24X        ILE 13X         1.97         159.48        -2.46       B       B
+ILE 26X        LEU 11X         3.28         164.08        -0.76       C       B
+THR 32X        GLU 35X         3.04         139.09         0.00       C       H
+THR 32X        LEU 36X         2.07         156.86        -2.06       C       H
+TYR 33X        LEU 36X         2.78         155.91         0.00       H       H
+TYR 33X        VAL 37X         1.77         165.03        -3.15       H       H
+ASP 34X        VAL 37X         2.81         147.59         0.00       H       H
+ASP 34X        LEU 38X         2.14         162.36        -1.96       H       H
+GLU 35X        MET 39X         2.00         166.83        -2.27       H       H
+GLU 35X        LEU 38X         2.58         148.24         0.00       H       H
+LEU 36X        MET 40X         1.93         162.58        -2.58       H       H
+VAL 37X        GLN 41X         2.04         162.45        -2.16       H       H
+LEU 38X        ARG 42X         1.93         168.81        -2.17       H       H
+MET 39X        VAL 43X         1.93         158.73        -2.69       H       H
+MET 40X        PHE 44X         1.96         164.09        -2.52       H       H
+GLN 41X        GLY 46X         1.75         142.64        -3.07       H       C
+GLN 41X        ARG 45X         2.03         161.63        -1.52       H       C
+ARG 42X        ARG 45X         2.13         143.76        -0.20       H       C
+THR 55X        ASN 91X         1.81         161.54        -2.93       B       B
+ILE 56X        ILE 68X         1.80         134.00        -2.71       B       B
+LYS 57X        PHE 89X         1.87         138.52        -2.67       B       B
+TYR 58X        ILE 66X         1.86         165.54        -2.98       B       B
+ASP 60X        GLY 63X         2.17         142.41        -0.33       C       C
+ASP 64X        ASP 60X         2.11         168.23        -2.12       B       C
+ILE 66X        TYR 58X         1.74         167.79        -3.20       B       B
+ASP 70X        ASP 73X         2.99         146.47         0.00       C       H
+ASP 70X        LEU 74X         1.96         169.99        -2.36       C       H
+SER 71X        LEU 74X         2.73         152.93         0.00       H       H
+SER 71X        SER 75X         1.88         163.20        -2.60       H       H
+SER 72X        SER 75X         2.41         148.97         0.00       H       H
+SER 72X        PHE 76X         2.11         165.13        -2.01       H       H
+ASP 73X        ALA 77X         1.88         168.45        -2.62       H       H
+ASP 73X        PHE 76X         2.50         147.13         0.00       H       H
+LEU 74X        ILE 78X         2.04         160.09        -2.18       H       H
+PHE 76X        GLN 79X         2.37         143.72        -0.53       H       C
+LEU 86X        LYS 14X         1.73         158.00        -3.46       B       B
+THR 87X        LYS 59X         2.22         157.72        -1.75       B       B
+LEU 88X        GLN 16X         2.08         148.67        -2.02       B       B
+PHE 89X        LYS 57X         2.15         155.19        -1.68       B       B
+VAL 90X        GLY 18X         2.96         143.66        -0.98       B       C
+ASN 91X        THR 55X         1.98         146.84        -2.12       B       B
+
+
+
+                  ***************************************
+                  *    SIDECHAIN HYDROGEN BOND PANEL    *
+                  ***************************************
+
+
+
+SIDE                     SIDE                     DIST.   ACCEPTOR   DONOR
+DONOR                    ACCEPTOR                 DIST.     STRUC    STRUC
+--------------------------------------------------------------------------------
+ASP 6X      OD1--CG    LEU 7X     O--C            2.70        C        C
+LEU 7X      N  --H     ASP 6X     OD1--CG         2.77        C        C
+SER 8X      OG--CB     ASP 6X     OD1--CG         3.01        C        C
+GLY 9X      N  --H     ASN 28X    OD1--CG         2.78        C        C
+LYS 10X     NZ--CE     ASN 28X    OD1--CG         3.29        B        C
+ALA 15X     N  --H     GLN 16X    OE1--CD         3.32        B        B
+ASP 20X     OD1--CG    LEU 17X    O--C            2.89        C        B
+ARG 22X     NH1--CZ    VAL 43X    O--C            2.71        B        H
+ARG 22X     NH1--CZ    PHE 44X    O--C            3.30        B        H
+THR 32X     OG1--CB    GLU 35X    OE1--CD         3.35        C        H
+THR 32X     OG1--CB    ILE 31X    O--C            2.59        C        C
+TYR 33X     OH--CZ     ILE 68X    O--C            3.20        H        B
+GLU 35X     OE1--CD    THR 32X    OG1--CB         3.35        H        C
+ARG 45X     NH1--CZ    VAL 43X    O--C            3.47        C        H
+LEU 48X     N  --H     GLN 41X    OE1--CD         3.18        C        H
+SER 50X     OG--CB     LEU 49X    O--C            3.26        C        C
+ASN 51X     ND2--CG    GLY 46X    O--C            2.80        C        C
+ASP 52X     N  --H     ASN 51X    OD1--CG         2.62        C        C
+GLU 53X     N  --H     ASP 52X    OD1--CG         3.16        C        C
+GLU 61X     OE1--CD    SER 81X    OG--CB          2.85        C        C
+ASP 62X     N  --H     ASP 60X    OD1--CG         3.09        C        C
+GLY 63X     N  --H     ASP 60X    OD1--CG         2.75        C        C
+ASP 64X     N  --H     ASP 60X    OD1--CG         2.69        B        C
+THR 67X     OG1--CB    ILE 56X    O--C            2.97        B        B
+ILE 68X     N  --H     THR 67X    OG1--CB         3.00        B        B
+PHE 69X     N  --H     ASP 73X    OD2--CG         3.24        C        H
+SER 72X     N  --H     ASP 70X    OD1--CG         2.90        H        C
+SER 72X     N  --H     SER 71X    OG--CB          2.81        H        H
+ASP 73X     OD2--CG    THR 67X    O--C            2.93        H        B
+SER 75X     OG--CB     SER 71X    O--C            2.79        H        H
+SER 81X     OG--CB     CYS 80X    O--C            2.58        C        C
+SER 81X     OG--CB     GLU 61X    OE1--CD         2.85        C        C
+ASN 91X     ND2--CG    GLY 92X    O--C            3.18        B        C
+GLY 92X     N  --H     ASN 91X    OD1--CG         3.35        C        B

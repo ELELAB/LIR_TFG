@@ -1,0 +1,6 @@
+hhpred id :7939734
+modeller job id :9813056
+template: 1WMH_B Protein kinase C, iota 
+identity :19%   
+
+other than this, many models based on p62 template was explored but not selected for this study.

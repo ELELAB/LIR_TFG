@@ -12,3 +12,9 @@ The repository contains the input data for modeling and prediction used in the p
 
 Please cite our publication if you use the material in this repository
 
+#contents
+1. hhpred alignment
+2. model of PB1 used in the study
+3. vadar results
+4. naccess data
+~               
